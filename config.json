@@ -1,0 +1,6 @@
+{
+  "allowed_users": [1491956021],
+  "timezone": "Asia/Tashkent",
+  "default_reminder_time": "10:00",
+  "remove_sent_dates": true
+}
